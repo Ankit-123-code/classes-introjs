@@ -10,5 +10,5 @@ constructor(legs,arms,occupation,task){
     this.task =task;
 }
 }
-let Human1=new Human(2,2,"Manager",car)
+let Human1=new Human(2,2,"Manager","Execution")
 console.log(Human1);
